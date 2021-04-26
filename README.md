@@ -4,9 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-William%20Oliveira-0096c7?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williamoliverpro/)](https://www.linkedin.com/in/williamoliverpro/) 
 [![Gmail Badge](https://img.shields.io/badge/-williamoliverpro@gmail.com-0096c7?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:williamoliverpro@gmail.com)
 
-Enthusiast of the best web & mobile development technologies.
-
-Passionate about programming and all the changes it brings to people's lives.
+Passionate about the entire web and mobile ecosystem, and all the changes it makes in people's lives.
 
 ---
 

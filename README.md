@@ -5,3 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-williamoliverpro@gmail.com-0096c7?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:williamoliverpro@gmail.com)
 
 Enthusiast of the best web & mobile development technologies.
+
+Passionate about programming and all the changes it brings to people's lives
+
+---
